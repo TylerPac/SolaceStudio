@@ -1,19 +1,27 @@
-What ive done
+# Solace Studio Portfolio
 
-
-*Backend
-from base folder solace
-Spring initializer from solace studio 
-package dev.tylerpac
-artifact backend
-
-*Frontend
-from base folder solace
-npm create vite@latest
-
-java script + react compiler
-
-
-
-
+**Run Backend/Frontend**
+``` 
+npm run dev
 mvn spring-boot:run
+``` 
+
+
+***Initial Setup***
+```
+cd Solace Studio
+```
+
+**Backend**
+
+from vscode spring initializer
+package and artifact
+```
+dev.tylerpac
+backend
+```
+**Frontend**
+```
+npm create vite@latest
+java script + react compiler
+```
